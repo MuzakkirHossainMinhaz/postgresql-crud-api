@@ -153,7 +153,7 @@ You can use tools like [Postman](https://www.postman.com/) or `curl` to interact
 
 ## Contributing
 
-This is a personal project and contributions are not expected. However, if you'd like to contribute to this project, please follow the standard GitHub workflow:
+This is my personal project for practicing PostgreSQL with Node.js and Express, and I do not expect any contributions. However, if you'd like to contribute to this project, please follow the standard GitHub workflow:
 
 1. Fork the project.
 2. Create a new branch for your feature or bug fix.
